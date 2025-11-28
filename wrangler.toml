@@ -1,0 +1,5 @@
+name = "html-site"
+compatibility_date = "2023-10-01"
+
+[pages_build_output]
+directory = "public"
